@@ -1,0 +1,117 @@
+body{
+  background-image: url(http://ts2.mm.bing.net/th?id=OIP.2mxE5l3ITLuWWzP5wwGOlgHaEK&pid=15.1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Outfit", serif;
+  
+}
+nav{
+  margin-left: 60%;
+}
+a{
+  color: white;
+  margin-left: 44px;
+  text-decoration: none;
+}
+.log{
+  background-color: rgb(8, 74, 187);
+  padding: 7px;
+  font-size: 15px;
+  border-radius: 15px;
+ 
+}
+.head{
+  margin-top: 20px;
+}
+h1{
+  color: white;
+  width: 342px;
+  margin-left: 80px;
+  margin-top: 9%;
+  font-weight: bold;
+  font-size: 45px;
+}
+span{
+  color: yellowgreen;
+}
+P{
+  color: rgb(255, 255, 255);
+  width: 507px;
+  margin-left: 80px;
+}
+button{
+  margin-top: 25px;
+  margin-left: 95px;
+  border: none;
+  width: 130px;
+  background-color: rgb(131, 193, 245);
+  padding: 10px;
+  border-radius: 20px;
+}
+.gird{
+  display: flex;
+  margin-top: 45px;
+  font-weight: bold;
+  font-size: 18px;
+  color: whitesmoke;
+  margin-left: 5%;
+}
+.hh1{
+  margin-left: 31%;
+}
+.h2{
+  margin-left: 20%;
+}
+.para{
+  color: aliceblue;
+  display: flex;
+  margin-top: -20px;
+  padding: 5px;
+}
+.yyy{
+  margin-left: 190px;
+  width: 520px;
+}
+.zzz{
+  margin-left: 90px;
+  width: 520px;
+}
+.hhh{
+  margin: 10px;
+}
+.log:hover{
+  background-color: rgb(3, 23, 74);
+}
+
+.img1{
+  float: right;
+  margin-top: -129px;
+  border: 2px solid rgb(3, 22, 45);
+  border-radius: 28px;
+  box-shadow: 10px 10px 10px 6px rgb(228, 8, 8);
+  
+}
+a:hover{
+  color: rgb(225, 27, 228);
+}
+h1{
+  text-shadow: 8px 10px 8px rgb(90, 119, 214);
+}
+h2{
+  color: whitesmoke;
+  margin-left: 5px;
+  margin-left: 3%;
+  font-weight: bold;
+  font-size: 30px;
+  text-shadow: 10px 10px 20px rgb(241, 130, 82);
+}
+button{
+  cursor: pointer;
+}
+button:hover{
+  background-color: rgb(8, 132, 177);
+  opacity: 0.8;
+}
+
+
+
